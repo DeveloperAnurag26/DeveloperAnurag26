@@ -1,5 +1,5 @@
- About Me:
-Hi I am Anurag Pandey<br>A Full-Stack Developer<br>Expertise in Fronted Backend And Database
+# 💫 About Me:
+Hi I am Anurag Pandey<br>A Full-Stack Web Developer<br>Expertise in both Fronted Backend And Database
 
 
 ## 🌐 Socials:
